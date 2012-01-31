@@ -1,4 +1,5 @@
 This is a little script for send mail using the smtp gmail server.
+
 Just fill out the fields as shown below:
 mensaje['Subject'] = A little subject / Mensaje corto
 mensaje['From'] = your user / Tu usuario
