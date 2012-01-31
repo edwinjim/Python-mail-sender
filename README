@@ -1,0 +1,9 @@
+This is a little script for send mail using the smtp gmail server.
+Just fill out the fields as shown below:
+mensaje['Subject'] = A little subject / Mensaje corto
+mensaje['From'] = your user / Tu usuario
+smtpserver = smtp.gmail.com
+smtpuser = your smtp usr (gmail user) / tu usuario smtp gmail (tu usuario de gmail)
+smtppassword = your smtp password / tu pass smtp
+SENDER = Who is sending / quien lo está enviando
+RECIPIENTS = destin email / email del destinatario
